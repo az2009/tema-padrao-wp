@@ -27,3 +27,6 @@ Snippets mais usados
     <?php get_option() ?>
     <?php get_the_author() ?>
     <?php get_template_part() ?>
+
+Melhor Codex do mundo
+https://codex.wordpress.org/Function_Reference/
