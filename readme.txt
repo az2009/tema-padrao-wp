@@ -1,4 +1,4 @@
-=== default ===
+1=== default ===
 
 Contributors: automattic
 Tags: translation-ready, custom-background, theme-options, custom-menu, post-formats, threaded-comments
